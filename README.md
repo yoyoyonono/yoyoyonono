@@ -4,6 +4,7 @@
 
 ![yoyoyonono's github stats](https://github-readme-stats.vercel.app/api?username=yoyoyonono)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyonono)
+[![Typeracer](https://data.typeracer.com/misc/badge?user=yoyoyonono)](https://data.typeracer.com/pit/profile?user=yoyoyonono)
 
 ## Discords for stuff I'm a part of
 
