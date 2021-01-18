@@ -1,6 +1,6 @@
 # Welcome to me
 
-[contact me](https://social.ggrks.tk/)
+[contact me](https://social.ggrks.moe/)
 
 ![yoyoyonono's github stats](https://github-readme-stats.vercel.app/api?username=yoyoyonono)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyonono)
