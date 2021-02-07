@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyonono)
 [![Typeracer](https://data.typeracer.com/misc/badge?user=yoyoyonono)](https://data.typeracer.com/pit/profile?user=yoyoyonono)
 ![RiiTag](https://tag.rc24.xyz/331171913432956933/tag.png)
-[![myanimelist](https://myanimelist.net/signature/Yoyoyonono.png)](https://myanimelist.net/profile/Yoyoyonono)
+[![myanimelist](https://cdn.myanimelist.net/signature/Yoyoyonono.png)](https://myanimelist.net/profile/Yoyoyonono)
 
 ## Discords for stuff I'm a part of
 
