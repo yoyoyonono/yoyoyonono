@@ -10,6 +10,7 @@
 
 ## Discords for stuff I'm a part of
 
++ [My Discord (yt/ttv stuff)](https://discord.gg/PxxvQW3SM6)
 + [LiveTL](https://discord.gg/uJrV3tmthg)
 + [StyleStar](https://discord.gg/sZ2jJKE)
 + [Towson Gang](https://discord.gg/AqrqZbA)
