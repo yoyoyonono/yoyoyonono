@@ -2,9 +2,9 @@
 
 [contact me](https://social.ggrks.moe/)
 
-![yoyoyonono's github stats](https://github-readme-stats-mvvbmkw63-aaron-thapas-projects.vercel.app/api?username=yoyoyonono)
+![yoyoyonono's github stats](https://github-readme-stats-woad-eight-47.vercel.app/api?username=yoyoyonono)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoyoyonono)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats-mvvbmkw63-aaron-thapas-projects.vercel.app/api/top-langs/?username=yoyoyonono&langs_count=10)
+![Top Langs](https://github-readme-stats-woad-eight-47.vercel.app/api/top-langs/?username=yoyoyonono&langs_count=10)
 [![Typeracer](https://data.typeracer.com/misc/badge?user=yoyoyonono)](https://data.typeracer.com/pit/profile?user=yoyoyonono)
 ![RiiTag](https://tag.rc24.xyz/331171913432956933/tag.png)
 [![myanimelist](https://malsignature.com/?/view?username=Yoyoyonono&style=normal)](https://myanimelist.net/profile/Yoyoyonono)
